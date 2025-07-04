@@ -38,10 +38,13 @@ A proposta é apresentar, de forma prática, as habilidades adquiridas em HTML, 
 - `script.js` – JS modular com integração de APIs
 
 ---
+## 👨‍💻 Autor
+Welington Brito Junior
+Estudante de ADS | Apaixonado por tecnologia e aprendizado contínuo
+📧 welingtonrbj@gmail.com
+🔗 LinkedIn | WhatsApp
 
-## 🧪 Como testar localmente
+---
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Jniorwel02/Apresenta-o-de-conhecimentos.git
-   cd Apresenta-o-de-conhecimentos
+##📜 Licença
+Este projeto é de uso pessoal e educacional. Fique à vontade para estudar o código!
