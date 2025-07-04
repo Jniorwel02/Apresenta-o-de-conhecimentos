@@ -42,9 +42,9 @@ A proposta é apresentar, de forma prática, as habilidades adquiridas em HTML, 
 Welington Brito Junior
 Estudante de ADS | Apaixonado por tecnologia e aprendizado contínuo
 📧 welingtonrbj@gmail.com
-🔗 LinkedIn | WhatsApp
+🔗 LinkedIn (https://www.linkedin.com/in/welington-brito-junior-b79924211/)
+🔗 WhatsApp (https://wa.me/5521990196081)
 
 ---
-
-##📜 Licença
+## 📜 Licença
 Este projeto é de uso pessoal e educacional. Fique à vontade para estudar o código!
