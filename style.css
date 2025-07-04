@@ -1,4 +1,3 @@
-/* Reset e estilo base */
 * {
     margin: 0;
     padding: 0;
@@ -48,8 +47,9 @@ ul li a:hover {
 /* Título principal */
 .apresentacao {
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 2rem;
     margin-bottom: 10px;
+    color: #79c0ff;
 }
 
 /* Parágrafos e textos */
@@ -58,11 +58,17 @@ p, h2 {
     margin-top: 10px;
 }
 
+h2 {
+    color: #c9d1d9;
+    font-size: 1.4rem;
+}
+
 .explicacao {
     max-width: 800px;
     margin: 20px auto;
     text-align: center;
     font-size: 1rem;
+    color: #b1bac4;
 }
 
 /* Links de contato com ícones */
@@ -120,6 +126,12 @@ p, h2 {
     height: 300px;
     border: 2px solid #30363d;
     border-radius: 8px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.certificados-grid iframe:hover {
+    transform: scale(1.02);
+    box-shadow: 0 0 15px #58a6ff44;
 }
 
 /* Campo de busca */
@@ -135,6 +147,12 @@ p, h2 {
     background-color: #21262d;
     color: #e6edf3;
     border: 1px solid #30363d;
+    transition: border-color 0.3s ease;
+}
+
+#buscar-certificado:focus {
+    outline: none;
+    border-color: #58a6ff;
 }
 
 /* Seção de frase motivacional */
@@ -170,11 +188,12 @@ p, h2 {
     border-radius: 6px;
     font-size: 1rem;
     cursor: pointer;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 #nova-frase:hover {
     background-color: #2ea043;
+    transform: translateY(-2px);
 }
 
 /* Responsividade extra */
