@@ -111,6 +111,15 @@ h2 {
     background-color: #004182;
     transform: scale(1.05);
 }
+.contato-github {
+    background-color: #333;
+    color: #fff;
+}
+
+.contato-github:hover {
+    background-color: #111;
+    transform: scale(1.05);
+}
 
 /* Certificados */
 .certificados-grid {
